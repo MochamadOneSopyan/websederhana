@@ -1,0 +1,7 @@
+PR 
+1. NIM, NAMA, NILAI_MUTU (A)
+2. NIM, NAMA , TOTAL IPK
+3. NIM, NAMA, NAMA MK, SKS, NILAI MUTU, TOTAL NILAI, DOSEN
+
+nim= krs, mahasiswa, nilai
+	 nama_lengkap
